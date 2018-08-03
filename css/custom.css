@@ -2,3 +2,7 @@
 p, .copyright{
   font-size: 0.9em;
 }
+
+.gray .plan.highlighted{
+  background-color: #ffd6b6;
+}
