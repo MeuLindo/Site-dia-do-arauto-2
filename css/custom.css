@@ -6,3 +6,40 @@ p, .copyright{
 .gray .plan.highlighted{
   background-color: #ffd6b6;
 }
+
+p::selection{
+  color: #ff9500;
+}
+
+h1::selection{
+  color: #ff9500;
+}
+
+h2::selection{
+  color: #ff9500;
+}
+
+h3::selection{
+  color: #ff9500;
+}
+
+
+h4::selection{
+  color: #ff9500;
+}
+
+h5::selection{
+  color: #ff9500;
+}
+
+.btn.btn-default{
+  color: #ffb32c;
+}
+
+ul.social li a{
+  color: #ff9500;
+}
+
+.service .icon{
+  color: #ff9500;
+}
