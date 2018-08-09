@@ -33,7 +33,7 @@ h5::selection{
 }
 
 .btn.btn-default{
-  color: #ffb32c;
+  color: #ffd6b6;
 }
 
 ul.social li a{
@@ -41,5 +41,21 @@ ul.social li a{
 }
 
 .service .icon{
+  color: #ff9500;
+}
+
+strong::selection{
+  color: #ff9500;
+}
+
+li::selection{
+  color: #ff9500;
+}
+
+div::selection{
+  color: #ff9500;
+}
+
+span::selection{
   color: #ff9500;
 }
