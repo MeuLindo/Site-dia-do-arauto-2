@@ -59,3 +59,11 @@ div::selection{
 span::selection{
   color: #ff9500;
 }
+
+#contato{
+  background-color: #ffd6b6;
+}
+
+span.accent{
+  color: #ff9500;
+}

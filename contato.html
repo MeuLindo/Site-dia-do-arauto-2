@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Portifólio - Dia do Arauto</title>
+    <title>Contato - Dia do Arauto</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="css/core.css">
@@ -10,7 +10,7 @@
     <link rel="icon" type="image/png" href="/images/favicon.png">
     <script src="js/assets/jquery.js"></script>
   </head>
-  <body class="dark-hero">
+  <body>
     <div class="body-overlay"></div>
     <!-- Menu-->
     <div class="nav-container">
@@ -44,70 +44,75 @@
       <!-- Header-->
       <header>
         <div class="container">
-          <!-- Branding--><a href="index.html" class="brand"> <img alt="" src="/images/logo-clara.png" class="dark-brand"><img alt="" src="images/logo-escura.png" class="light-brand"></a>
+          <!-- Branding--><a href="index.html" class="brand"> <img alt="" src="images/logo-clara.png" class="dark-brand"><img alt="" src="images/logo-escura.png" class="light-brand"></a>
           <!-- Menu-->
           <div class="menu"></div>
         </div>
       </header>
       <!-- Hero-->
-      <section class="hero dark vbottom">
+      <section class="hero lg behind vbottom">
         <!-- Background-->
-        <div style="background-image: url(images/08.jpg);" class="bg faded parallax"></div>
+        <div style="background-image: url(../images/02.jpg);" class="bg parallax"></div>
         <div class="container">
           <!-- Content-->
           <div class="content">
-            <h1>Portfólio</h1>
-            <p>Alguns de nossos trabalhos</p>
+            <div class="row">
+              <div class="col-md-7">
+                <h1>Maneiras de falar com a gente</h1>
+                <p>Comunicação é parte fundamental de qualquer negócio, entre em contato.</p>
+              </div>
+            </div>
           </div>
         </div>
       </section>
       <section>
         <div class="container">
           <!-- Portfolio grid-->
-          <div class="grid no-spacing">
+          <div class="grid contact-container">
             <div class="grid-sizer"></div>
-            <!-- Portfolio item--><a href="/portifolio/studio-ancora.html" class="grid-item">
-              <div style="background-image: url(images/studio-ancora-1.jpg)" class="thumb"></div>
-              <div class="caption">
-                <div class="type">Fotografia + Calendário</div>
-                <div class="description">
-                  <h4>Studio Âncora</h4>
-                  <p>Ensaio + Dia dos Namorados</p>
-                </div>
-              </div></a>
-
-            <!-- Portfolio item--><a href="../pages/portfolio-single-2.html" class="grid-item">
-              <div style="background-image: url(images/marcelo-1.jpg)" class="thumb"></div>
-              <div class="caption">
-                <div class="type">Fotografia</div>
-                <div class="description">
-                  <h4>Marcelo Figueiredo </h4>
-                  <p>Ensaio fotográfico no estúdio do artista.</p>
-                </div>
-              </div></a>
-
-            <!-- Portfolio item--><a href="../pages/portfolio-single-2.html" class="grid-item large">
-              <div style="background-image: url(images/behub-1.jpg)" class="thumb"></div>
-              <div class="caption">
-                <div class="type">Palestra</div>
-                <div class="description">
-                  <h4>Behub</h4>
-                  <p>Palestra sobre o cenário musical Belo Horizontino.</p>
-                </div>
-              </div></a>
-
-            <!-- Portfolio item--><a href="../pages/portfolio-single-2.html" class="grid-item">
-              <div style="background-image: url(images/shaminta-1.jpeg)" class="thumb"></div>
-              <div class="caption">
-                <div class="type">Design + Art Direction</div>
-                <div class="description">
-                  <h4>Flávia Shaminta</h4>
-                  <p></p>
-                </div>
-              </div></a>
-
-
+            <div class="grid-item contact-form">
+              <div class="inner" id="contato">
+                <form id="form" action="/php/mail.php" name="form">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <input placeholder="* Seu nome" name="name" required type="text" class="form-control">
+                    </div>
+                    <div class="col-md-6">
+                      <input placeholder="* E-mail" name="email" required type="email" class="form-control">
+                    </div>
+                    <div class="col-md-6">
+                      <input placeholder="Telefone" name="phone" type="text" class="form-control">
+                    </div>
+                    <div class="col-md-6">
+                      <input placeholder="Site" name="website" type="text" class="form-control">
+                    </div>
+                    <div class="col-md-12">
+                      <textarea placeholder="* Mensagem" name="message" required class="form-control"></textarea>
+                      <button id="send" type="submit" class="btn btn-default">Enviar</button>
+                    </div>
+                  </div>
+                </form>
+              </div>
+            </div>
+            <div class="grid-item contact-details vcenter">
+              <div class="inner">
+                <p><span class="bold accent">Dia do Arauto</span><br>R. Pirapetinga 322, 503<br>30220-150 Belo Horizonte, MG</p>
+                <p>(+31) 992 969 497<br>contato@diadoarauto.com.br</p>
+              </div>
+            </div>
           </div>
+          <!-- <div class="grid">
+            <div class="grid-sizer"></div>
+            <div class="grid-item">
+              <div style="background-image: url(../images/thumbs/10.png)" class="thumb"></div>
+            </div>
+            <div class="grid-item large">
+              <div style="background-image: url(../images/office/01.jpg)" class="thumb"></div>
+            </div>
+            <div class="grid-item">
+              <div style="background-image: url(../images/office/02.jpg)" class="thumb"></div>
+            </div>
+          </div> -->
         </div>
       </section>
       <!-- Footer-->
