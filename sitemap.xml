@@ -9,92 +9,122 @@
 
 <url>
   <loc>http://diadoarauto.com.br/</loc>
-  <lastmod>2018-08-12T15:53:36+00:00</lastmod>
+  <lastmod>2018-08-17T15:27:52+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>http://diadoarauto.com.br/index.html</loc>
-  <lastmod>2018-08-12T15:53:36+00:00</lastmod>
+  <lastmod>2018-08-17T15:27:52+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://diadoarauto.com.br/artistas.html</loc>
-  <lastmod>2018-08-12T16:22:20+00:00</lastmod>
+  <loc>http://diadoarauto.com.br/portfolio.html</loc>
+  <lastmod>2018-08-17T15:27:53+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://diadoarauto.com.br/portifolio.html</loc>
-  <lastmod>2018-08-12T15:53:38+00:00</lastmod>
+  <loc>http://diadoarauto.com.br/booking.html</loc>
+  <lastmod>2018-08-17T15:27:49+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://diadoarauto.com.br/contato.html</loc>
-  <lastmod>2018-08-10T16:54:41+00:00</lastmod>
+  <lastmod>2018-08-17T15:27:50+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://diadoarauto.com.br/artistas/caldera.html</loc>
-  <lastmod>2018-08-13T17:30:24+00:00</lastmod>
+  <lastmod>2018-08-17T15:25:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://diadoarauto.com.br/portifolio/sinestesica.html</loc>
-  <lastmod>2018-08-12T15:53:31+00:00</lastmod>
+  <loc>http://diadoarauto.com.br/portfolio/sinestesica.html</loc>
+  <lastmod>2018-08-17T15:27:44+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://diadoarauto.com.br/artistas/cayena.html</loc>
-  <lastmod>2018-08-13T17:30:28+00:00</lastmod>
+  <lastmod>2018-08-17T15:25:45+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://diadoarauto.com.br/portifolio/museu-de-rua.html</loc>
-  <lastmod>2018-08-12T15:53:30+00:00</lastmod>
+  <loc>http://diadoarauto.com.br/artistas/well-figuere.html</loc>
+  <lastmod>2018-08-17T15:25:53+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://diadoarauto.com.br/portifolio/abreu-advogados-associados.html</loc>
-  <lastmod>2018-08-12T15:53:25+00:00</lastmod>
+  <loc>http://diadoarauto.com.br/artistas/paulo-pagano.html</loc>
+  <lastmod>2018-08-17T15:25:50+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://diadoarauto.com.br/artistas/velejante.html</loc>
-  <lastmod>2018-08-13T17:30:39+00:00</lastmod>
+  <lastmod>2018-08-17T15:25:52+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://diadoarauto.com.br/portifolio/flavia-shaminta.html</loc>
-  <lastmod>2018-08-12T15:53:27+00:00</lastmod>
+  <loc>http://diadoarauto.com.br/portfolio/flavia-shaminta.html</loc>
+  <lastmod>2018-08-17T15:27:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://diadoarauto.com.br/artistas/enversos.html</loc>
-  <lastmod>2018-08-13T17:30:31+00:00</lastmod>
+  <lastmod>2018-08-17T15:25:47+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://diadoarauto.com.br/portfolio/museu-de-rua.html</loc>
+  <lastmod>2018-08-17T15:27:42+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://diadoarauto.com.br/artistas/menage.html</loc>
-  <lastmod>2018-08-13T17:30:36+00:00</lastmod>
+  <lastmod>2018-08-17T15:25:49+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://diadoarauto.com.br/artistas/well-figuere.html</loc>
-  <lastmod>2018-08-13T17:30:42+00:00</lastmod>
+  <loc>http://diadoarauto.com.br/portfolio/studio-ancora.html</loc>
+  <lastmod>2018-08-17T15:27:45+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://diadoarauto.com.br/portifolio/studio-ancora.html</loc>
-  <lastmod>2018-08-12T15:53:33+00:00</lastmod>
+  <loc>http://diadoarauto.com.br/portfolio/marcelo-figueredo.html</loc>
+  <lastmod>2018-08-17T15:27:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://diadoarauto.com.br/portifolio/marcelo-figueredo.html</loc>
-  <lastmod>2018-08-12T15:53:29+00:00</lastmod>
+  <loc>http://diadoarauto.com.br/portfolio/behub.html</loc>
+  <lastmod>2018-08-17T15:27:37+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://diadoarauto.com.br/portifolio/behub.html</loc>
-  <lastmod>2018-08-12T15:53:26+00:00</lastmod>
+  <loc>http://diadoarauto.com.br/portfolio/abreu-advogados-associados.html</loc>
+  <lastmod>2018-08-17T15:27:36+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://diadoarauto.com.br/artistas.html</loc>
+  <lastmod>2018-08-17T15:27:48+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 
