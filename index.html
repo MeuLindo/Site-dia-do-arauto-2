@@ -17,13 +17,20 @@
 		<link rel="stylesheet" type="text/css" href="css/custom.css">
 		<link rel="icon" type="image/png" href="/images/favicon.png">
 		<script src="js/assets/jquery.js"></script>
+		<script src="js/response.js"></script>
 	</head>
-	<body>
+	<body data-responsejs='{
+  "create": [{
+    "prop": "width",
+    "prefix": "min-width- r src",
+    "breakpoints": [0, 320, 481, 641, 961, 1025, 1281]
+  }]
+}'>
 		<!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M2FTWQZ"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-		<div class="body-overlay"></div>
+		<div class="body-overlay" ></div>
 		<!-- Menu-->
 		<div class="nav-container">
 			<ul class="nav">
@@ -62,7 +69,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<li class="slide">
 						<!-- Background-->
 						<div class="hero fs">
-							<div style="background-image: url(images/banner/passion.jpg);" class="bg parallax"></div>
+							<div id="passion" style="" class="bg parallax"></div>
 							<div class="container text-center offset-top">
 								<!-- Content-->
 								<div class="content">

@@ -67,3 +67,24 @@ span::selection{
 span.accent{
   color: #ff9500;
 }
+
+#passion
+{
+    background-image: url(../images/banner/passion.jpg);
+    max-width: 100%;
+   height: auto;
+}
+
+.visible-mobile {
+  display: none !important;
+}
+
+@media (max-width: 1200px) {
+  .visible-mobile {
+    display: inline !important;
+  }
+
+  .hidden-mobile {
+    display: none !important;
+  }
+}
