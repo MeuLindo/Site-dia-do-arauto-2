@@ -68,7 +68,43 @@ span.accent{
   color: #ff9500;
 }
 
-#passion
-{
-    width: 100%;
+#booking-social{
+  font-size: 3em;
+  color: #ff9500;
+}
+
+#booking-social a{
+  color: #ff9500;
+  padding: 3%;
+}
+
+#booking-social a:hover{
+  text-decoration: none;
+  color: #ffd6b6;
+}
+
+#booking-social a:visited{
+  text-decoration: none;
+}
+
+#booking-social a:active{
+  text-decoration: none;
+}
+
+a{
+  color: #ff9500;
+}
+
+a:hover{
+  color: #ffd6b6;
+  text-decoration: none;
+}
+
+a:visited{
+  color: #ff9500;
+  text-decoration: none;
+}
+a:active{
+  color: #ff9500;
+  text-decoration: none;
 }
