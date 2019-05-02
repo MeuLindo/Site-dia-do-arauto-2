@@ -1,5 +1,11 @@
 RewriteEngine on
 
+# Glue www e nowww em nowww
+RewriteCond %{HTTP_HOST} ^www.diadoarauto\.com\.br$ [NC]
+RewriteRule ^(.*)$ Http://diadoarauto.com.br/$1 [R=301,L]
+
+
+
 # 480 weeks
 <FilesMatch "\.(ico|pdf|flv|jpg|jps|jpeg|png|gif|js|css|swf)$">
 Header set Cache-Control "max-age=290304000, public"
