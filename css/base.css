@@ -24,8 +24,89 @@
 /*---
   00. Presets
 ---*/
-@import url(https://fonts.googleapis.com/css?family=Work+Sans:400,500,300);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:300,400,700);
+
+/* Roboto light */
+
+@font-face {
+    font-family: "Roboto";
+    src: url("../fonts/roboto/Roboto-Light.ttf");
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Roboto";
+    src: url("../fonts/roboto/Roboto-LightItalic.ttf");
+    font-weight: 300;
+    font-style: normal;
+}
+
+/* Roboto regular */
+
+@font-face {
+    font-family: "Roboto";
+    src: url('../fonts/roboto/Roboto-Medium.ttf');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Roboto";
+    src: url('../fonts/roboto/Roboto-MediumItalic.ttf');
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* Roboto bold */
+
+@font-face {
+    font-family: "Roboto";
+    src: url('../fonts/roboto/Roboto-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url('../fonts/roboto/Roboto-BoldItalic.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* Work Sans light */
+
+@font-face {
+    font-family: "WorkSans";
+    src: url("../fonts/worksans/WorkSans-Light.ttf");
+    font-weight: 300;
+    font-style: normal;
+}
+
+/* Work Sans regular */
+
+@font-face {
+    font-family: "WorkSans";
+    src: url('../fonts/worksans/WorkSans-Medium.ttf');
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* Work Sans bold */
+
+@font-face {
+    font-family: "WorkSans";
+    src: url('../fonts/worksans/WorkSans-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Roboto Mono";
+    src: url('../fonts/roboto-mono/RobotoMono-regular.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+
 * {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
