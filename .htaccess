@@ -1,22 +1,32 @@
 RewriteEngine on
+RewriteCond %{HTTPS} !on
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+RewriteCond %{HTTP_HOST} ^diadoarauto.com.br [NC]
+RewriteRule ^(.*)$ http://www.diadoarauto.com.br/$1 [L,R=301,NC]
 
-# Glue www e nowww em nowww
-RewriteCond %{HTTP_HOST} ^www.diadoarauto\.com\.br$ [NC]
-RewriteRule ^(.*)$ Http://diadoarauto.com.br/$1 [R=301,L]
+<IfModule mod_expires.c>
+  ExpiresActive On
 
+  # Images
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/gif "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType image/svg+xml "access plus 1 year"
+  ExpiresByType image/x-icon "access plus 1 year"
 
+  # Video
+  ExpiresByType video/mp4 "access plus 1 year"
+  ExpiresByType video/mpeg "access plus 1 year"
 
-# 480 weeks
-<FilesMatch "\.(ico|pdf|flv|jpg|jps|jpeg|png|gif|js|css|swf)$">
-Header set Cache-Control "max-age=290304000, public"
-</FilesMatch>
+  # CSS, JavaScript
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType text/javascript "access plus 1 month"
+  ExpiresByType application/javascript "access plus 1 month"
 
-# 2 DAYS
-<FilesMatch "\.(xml|txt)$">
-Header set Cache-Control "max-age=172800, public, must-revalidate"
-</FilesMatch>
-
-# 2 HOURS
-<FilesMatch "\.(html|htm)$">
-Header set Cache-Control "max-age=7200, must-revalidate"
-</FilesMatch>
+  # Others
+  ExpiresByType application/pdf "access plus 1 month"
+  ExpiresByType application/x-shockwave-flash "access plus 1 month"
+</IfModule>
