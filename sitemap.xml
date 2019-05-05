@@ -9,13 +9,8 @@
 
 <url>
   <loc>https://www.diadoarauto.com.br/</loc>
-  <lastmod>2019-05-02T20:12:36+00:00</lastmod>
+  <lastmod>2019-05-05T16:07:35+00:00</lastmod>
   <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://www.diadoarauto.com.br/index.html</loc>
-  <lastmod>2019-05-02T20:12:36+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.diadoarauto.com.br/empresas.html</loc>
@@ -39,58 +34,63 @@
 </url>
 <url>
   <loc>https://www.diadoarauto.com.br/portfolio/studio-ancora.html</loc>
-  <lastmod>2019-05-02T17:24:12+00:00</lastmod>
+  <lastmod>2019-05-03T04:00:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.diadoarauto.com.br/portfolio/behub.html</loc>
-  <lastmod>2019-05-02T17:24:03+00:00</lastmod>
+  <lastmod>2019-05-03T04:00:15+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.diadoarauto.com.br/portfolio/flavia-shaminta.html</loc>
-  <lastmod>2019-05-02T17:24:05+00:00</lastmod>
+  <lastmod>2019-05-03T04:00:17+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.diadoarauto.com.br/portfolio/abreu-advogados-associados.html</loc>
-  <lastmod>2019-05-02T17:24:01+00:00</lastmod>
+  <lastmod>2019-05-03T04:00:12+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.diadoarauto.com.br/portfolio/museu-de-rua.html</loc>
-  <lastmod>2019-05-02T17:24:07+00:00</lastmod>
+  <lastmod>2019-05-03T04:00:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.diadoarauto.com.br/portfolio/sinestesica.html</loc>
-  <lastmod>2019-05-02T17:24:10+00:00</lastmod>
+  <lastmod>2019-05-03T04:00:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.diadoarauto.com.br/portfolio/xeque-mate.html</loc>
-  <lastmod>2019-05-02T17:24:14+00:00</lastmod>
+  <lastmod>2019-05-03T04:00:26+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.diadoarauto.com.br/portfolio/begreen.html</loc>
-  <lastmod>2019-05-02T17:24:02+00:00</lastmod>
+  <lastmod>2019-05-03T04:00:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.diadoarauto.com.br/portfolio/decolor.html</loc>
-  <lastmod>2019-05-02T17:24:04+00:00</lastmod>
+  <lastmod>2019-05-03T04:00:16+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.diadoarauto.com.br/portfolio/pao-de-queijo-da-dora.html</loc>
-  <lastmod>2019-05-02T17:24:08+00:00</lastmod>
+  <lastmod>2019-05-03T04:00:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.diadoarauto.com.br/portfolio/strider.html</loc>
-  <lastmod>2019-05-02T17:24:11+00:00</lastmod>
+  <lastmod>2019-05-03T04:00:23+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/index.html</loc>
+  <lastmod>2019-05-05T16:07:35+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.diadoarauto.com.br/artistas/caldera.html</loc>
@@ -135,6 +135,236 @@
 <url>
   <loc>https://www.diadoarauto.com.br/booking.html</loc>
   <lastmod>2019-05-02T17:24:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/studio-ancora/studio-1.jps</loc>
+  <lastmod>2019-05-02T17:22:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/studio-ancora/studio-2.jps</loc>
+  <lastmod>2019-05-02T17:22:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/studio-ancora/studio-3.jps</loc>
+  <lastmod>2019-05-02T17:22:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/studio-ancora/studio-4.jps</loc>
+  <lastmod>2019-05-02T17:22:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/studio-ancora/studio-5.jps</loc>
+  <lastmod>2019-05-02T17:22:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/behub/behub-1.jps</loc>
+  <lastmod>2019-05-02T17:20:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/behub/behub-2.jps</loc>
+  <lastmod>2019-05-02T17:20:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/behub/behub-3.jps</loc>
+  <lastmod>2019-05-02T17:20:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/behub/behub-4.jps</loc>
+  <lastmod>2019-05-02T17:20:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/shaminta/shaminta-1.jps</loc>
+  <lastmod>2019-05-02T17:21:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/shaminta/shaminta-2.jps</loc>
+  <lastmod>2019-05-02T17:21:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/shaminta/shaminta-3.jps</loc>
+  <lastmod>2019-05-02T17:21:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/shaminta/shaminta-4.jps</loc>
+  <lastmod>2019-05-02T17:21:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/shaminta/shaminta-5.jps</loc>
+  <lastmod>2019-05-02T17:21:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/abreu-advogados/abreu-1.jps</loc>
+  <lastmod>2019-05-02T17:20:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/abreu-advogados/abreu-2.jps</loc>
+  <lastmod>2019-05-02T17:20:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/abreu-advogados/abreu-3.jps</loc>
+  <lastmod>2019-05-02T17:20:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/abreu-advogados/abreu-4.jps</loc>
+  <lastmod>2019-05-02T17:20:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/abreu-advogados/abreu-5.jps</loc>
+  <lastmod>2019-05-02T17:20:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/museu-de-rua/museu-2.jps</loc>
+  <lastmod>2019-05-02T17:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/museu-de-rua/museu-3.jps</loc>
+  <lastmod>2019-05-02T17:21:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/museu-de-rua/museu-4.jps</loc>
+  <lastmod>2019-05-02T17:21:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/museu-de-rua/museu-5.jps</loc>
+  <lastmod>2019-05-02T17:21:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/sinestesica/sinestesica-1.jps</loc>
+  <lastmod>2019-05-02T17:21:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/xeque-mate/xeque-1.jps</loc>
+  <lastmod>2019-05-02T17:22:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/xeque-mate/xeque-2.jps</loc>
+  <lastmod>2019-05-02T17:22:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/xeque-mate/xeque-3.jps</loc>
+  <lastmod>2019-05-02T17:22:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/xeque-mate/xeque-4.jps</loc>
+  <lastmod>2019-05-02T17:22:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/xeque-mate/xeque-5.jps</loc>
+  <lastmod>2019-05-02T17:22:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/begreen/begreen-1.jps</loc>
+  <lastmod>2019-05-02T17:20:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/begreen/begreen-2.jps</loc>
+  <lastmod>2019-05-02T17:20:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/begreen/begreen-3.jps</loc>
+  <lastmod>2019-05-02T17:20:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/begreen/begreen-4.jps</loc>
+  <lastmod>2019-05-02T17:20:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/begreen/begreen-5.jps</loc>
+  <lastmod>2019-05-02T17:20:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/decolor/decolor-1.jps</loc>
+  <lastmod>2019-05-02T17:20:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/decolor/decolor-2.jps</loc>
+  <lastmod>2019-05-02T17:21:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/decolor/decolor-3.jps</loc>
+  <lastmod>2019-05-02T17:21:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/decolor/decolor-4.jps</loc>
+  <lastmod>2019-05-02T17:21:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/decolor/decolor-5.jps</loc>
+  <lastmod>2019-05-02T17:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/dora/dora-1.jps</loc>
+  <lastmod>2019-05-02T17:21:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/dora/dora-2.jps</loc>
+  <lastmod>2019-05-02T17:21:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/strider/strider-1.jps</loc>
+  <lastmod>2019-05-02T17:21:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/strider/strider-2.jps</loc>
+  <lastmod>2019-05-02T17:21:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/strider/strider-3.jps</loc>
+  <lastmod>2019-05-02T17:21:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/strider/strider-4.jps</loc>
+  <lastmod>2019-05-02T17:22:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.diadoarauto.com.br/images/portfolio/strider/strider-5.jps</loc>
+  <lastmod>2019-05-02T17:22:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
