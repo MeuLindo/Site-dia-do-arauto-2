@@ -108,3 +108,10 @@ a:active{
   color: #ff9500;
   text-decoration: none;
 }
+
+.sucesso{
+  color: green;
+}
+.falha{
+  color: red;
+}
