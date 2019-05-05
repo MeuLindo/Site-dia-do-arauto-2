@@ -1,6 +1,7 @@
 /* This stylesheet is meant for custom styles, on top of the Bone Template */
 p, .copyright{
-  font-size: 0.9em;
+  font-size: 1em;
+  text-align: justify;
 }
 
 .gray .plan.highlighted{
@@ -114,4 +115,16 @@ a:active{
 }
 .falha{
   color: red;
+}
+.laranja{
+  color: orange;
+}
+
+i{
+  font-size: 2em;
+  padding-bottom: 10%;
+}
+
+.espaco{
+  margin-bottom: 10%;
 }
