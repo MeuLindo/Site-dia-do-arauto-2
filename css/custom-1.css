@@ -121,10 +121,21 @@ a:active{
 }
 
 i{
-  font-size: 2em;
+  font-size: 3em;
   padding-bottom: 10%;
 }
 
 .espaco{
   margin-bottom: 10%;
+}
+
+.clean:link{
+  color: black;
+  text-decoration: none;
+}
+
+.clean:visited{
+
+  color: black;
+  text-decoration: none;
 }
